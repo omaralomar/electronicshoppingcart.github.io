@@ -1,0 +1,7 @@
+C:\Users\OMAR\Downloads\v15 SA Project Online Shopping Cart Electronics\v15 finisshing\ShoppingHeart\ShoppingHeart\bin\ShoppingHeart.dll.config
+C:\Users\OMAR\Downloads\v15 SA Project Online Shopping Cart Electronics\v15 finisshing\ShoppingHeart\ShoppingHeart\bin\ShoppingHeart.dll
+C:\Users\OMAR\Downloads\v15 SA Project Online Shopping Cart Electronics\v15 finisshing\ShoppingHeart\ShoppingHeart\bin\ShoppingHeart.pdb
+C:\Users\OMAR\Downloads\v15 SA Project Online Shopping Cart Electronics\v15 finisshing\ShoppingHeart\ShoppingHeart\obj\Debug\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\OMAR\Downloads\v15 SA Project Online Shopping Cart Electronics\v15 finisshing\ShoppingHeart\ShoppingHeart\obj\Debug\ShoppingHeart.dll
+C:\Users\OMAR\Downloads\v15 SA Project Online Shopping Cart Electronics\v15 finisshing\ShoppingHeart\ShoppingHeart\obj\Debug\ShoppingHeart.pdb
+C:\Users\OMAR\Downloads\v15 SA Project Online Shopping Cart Electronics\v15 finisshing\ShoppingHeart\ShoppingHeart\obj\Debug\ShoppingCart.csprojAssemblyReference.cache

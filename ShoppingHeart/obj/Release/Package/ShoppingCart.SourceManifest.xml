@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\OMAR\Downloads\v15 SA Project Online Shopping Cart Electronics\v15 finisshing\ShoppingHeart\ShoppingHeart\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\Users\OMAR\Downloads\v15 SA Project Online Shopping Cart Electronics\v15 finisshing\ShoppingHeart\ShoppingHeart\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\OMAR\Downloads\v15 SA Project Online Shopping Cart Electronics\v15 finisshing\ShoppingHeart\ShoppingHeart\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
